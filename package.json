@@ -1,0 +1,24 @@
+{
+  "name": "sandbox-azure-swa-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^0.8.1",
+    "azure-functions-core-tools": "^3.0.3904"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shrkw/my-first-static-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrkw/my-first-static-web-app/issues"
+  },
+  "homepage": "https://github.com/shrkw/my-first-static-web-app#readme"
+}
